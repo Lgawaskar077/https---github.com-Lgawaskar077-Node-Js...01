@@ -1,0 +1,9 @@
+create a website for College using html and bootstrap (can use ai). it should have below pages 
+    Home, 
+    About us 
+    Our Courses 
+    Staff
+    download 
+    Contact  (input should be stored in file )
+
+then define route for each and every pages and return web page using fs module. refer 1_routing.js file for sample code. 
